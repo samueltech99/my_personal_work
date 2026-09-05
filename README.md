@@ -16,7 +16,6 @@ customer purchasing patterns, and operational data quality issues, enabling data
 * Which cafe locations are driving sales, and how do they compare?
 * What price points hit the sweet spot for transaction frequency?
 
-
 ## Project Process
 1. Data Ingestion & Cleaning: Loaded transaction data into Power BI, normalized data types, and flagged missing/uncategorized payment parameters.
 2. Data Modeling & DAX Calculation: Created aggregated measures for `Sum of Unit Price`, `Total Revenue`, `Total Volume`, and 
@@ -26,3 +25,12 @@ distinct counts for `Products` and `Locations`.
 * Constructed horizontal bar charts to rank product spend, unit price, and volume.
 * Formatted a donut chart to visualize payment method percentages.
 * Plotted line and area charts to evaluate location trends and price-point volume distributions.
+
+## Dashboard
+
+
+
+
+
+
+
