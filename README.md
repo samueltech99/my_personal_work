@@ -27,7 +27,7 @@ distinct counts for `Products` and `Locations`.
 * Plotted line and area charts to evaluate location trends and price-point volume distributions.
 
 ## Dashboard
-
+<a href="https://github.com/samueltech99/my_personal_work/blob/main/cafe_sales_screenshot.png">cafe_sales_dashboard</a>
 
 
 
