@@ -30,6 +30,18 @@ distinct counts for `Products` and `Locations`.
 <a href="https://github.com/samueltech99/my_personal_work/blob/main/cafe_sales_screenshot.png">cafe_sales_dashboard</a>
 
 
+## Project Insights
+
+* Top Revenue Generator: Salad leads overall revenue at $17K with the highest unit price sum ($5.4K), despite having moderate sales volume (3.3K units).
+* High-Volume Driver: Juice generates the highest unit volume (3.4K units) but yields lower revenue ($10K), indicating a lower margin/unit price structure.
+* Data Logging Anomaly: 30.55% of transactions fall under an Uncategorized payment method, outnumbering valid methods like Credit Card (23.40%), Cash (23.14%), and Digital Wallet (22.92%).
+* Location Variance: Sales vary significantly across branches, dipping to $18.1K before peaking sharply at $24.6K at the top location.
+* Optimal Price Point: Item counts peak at mid-tier price levels (2.2K and 2.1K transactions), showing lower customer demand at extreme low or high price bands.
+
+---
+## Final Conclusion
+The cafe business demonstrates strong baseline revenue ($84.43K) driven heavily by high-margin items like Salads and high-volume items like Juices. 
+To maximize growth, management should expand marketing for top-performing menu pairings and investigate the highest-performing location ($24.6K) to replicate its operational model across underperforming branches. Additionally, resolving the POS logging error causing 30.55% in "Uncategorized" payment methods is critical for accurate financial reconciliation.
 
 
 
